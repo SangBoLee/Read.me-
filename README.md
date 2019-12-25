@@ -48,6 +48,9 @@ URL 링크
 
 ![별](⁩Macintosh HD⁩/⁨Users/⁨sangbo⁩/⁨Downloads⁩/별.jpeg)
 
+<img src="/path/to/별.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/path/to/별.jpeg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
 링크 이미지
 
 ![별](https://blog.naver.com/dewysuk/140062830071)
