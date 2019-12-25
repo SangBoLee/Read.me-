@@ -53,7 +53,7 @@ URL 링크
 
 이미지 링크
 
-![별](⁩⁩/⁨Users/⁨sangbo⁩/⁨Downloads⁩/별.jpeg)
+![별](⁩⁩file:///Users/sangbo/Downloads/%E1%84%87%E1%85%A7%E1%86%AF.jpeg)
 
 <img src="/Users/sangbo/Downloads/별.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Star"></img><br/>
 <img src="/Users/sangbo/Downloads/별.jpeg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Star"></img>
