@@ -29,7 +29,7 @@
 
 <p>타이틀 속성이 있는 링크 : <a href="https://www.google.co.kr/" title="구글">Google</a>마우스를 올려 보세요.</p>  
 <p>타이틀 속성이 없는 링크 : <a href="https://www.google.co.kr/">Google</a>마우스를 올려 보세요.</p>  
-<p>상태경로 : <a href="/index">Home</a>으로 이동.</p>  
+<p>상태경로 : <a href="index">목차</a>으로 이동.</p>  
 <p>이메일 : <a href="mailto:name@email.com">e-mail</a></p>
 
 참조 링크
