@@ -16,6 +16,9 @@
 
 `인라인 코드블럭`
 
+|Header1|Header2|Header3|
+|:------|:-----:|------:|
+|Left|Center|Right|
 
 ***
 
@@ -39,10 +42,11 @@ URL 링크
 내부 링크
 
 [목차](#index)
+<div id="index">목차</div>
 
 이미지 링크
 
-![별](⁩/⁨Users/⁨sangbo⁩/⁨Downloads⁩/별.jpeg)
+![별](⁩Macintosh HD⁩/⁨Users/⁨sangbo⁩/⁨Downloads⁩/별.jpeg)
 
 링크 이미지
 
@@ -54,6 +58,5 @@ URL 링크
 
 [1]: /별.jpeg
 
-각주입니다. [^id]
-
-[^id]: 각주에 대한 설명입니다.
+<div id ="footnotes-p">각주입니다<sup>[1](#footnotes)</sup></div>
+<div id ="footnotes">[1](#footnotes-p) 각주 설명  : 설명설명</div>
