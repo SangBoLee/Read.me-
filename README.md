@@ -46,10 +46,10 @@ URL 링크
 
 이미지 링크
 
-![별](⁩Macintosh HD⁩/⁨Users/⁨sangbo⁩/⁨Downloads⁩/별.jpeg)
+![별](⁩/Macintosh HD⁩/⁨Users/⁨sangbo⁩/⁨Downloads⁩/별.jpeg)
 
-<img src="/path/to/별.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/path/to/별.jpeg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="/Users/sangbo/Downloads/별.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Star"></img><br/>
+<img src="/Users/sangbo/Downloads/별.jpeg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Star"></img>
 
 링크 이미지
 
