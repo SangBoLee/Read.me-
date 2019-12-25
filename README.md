@@ -14,7 +14,8 @@
     이것은 코드 블럭입니다.
 ~~~
 
-~인라인 코드블럭~
+`인라인 코드블럭`
+
 
 ***
 
@@ -41,7 +42,7 @@ URL 링크
 
 이미지 링크
 
-![별](Macintosh HD⁩ ▸ ⁨Users⁩ ▸ ⁨sangbo⁩ ▸ ⁨Downloads⁩/별.jpeg)
+![별](⁩/⁨Users/⁨sangbo⁩/⁨Downloads⁩/별.jpeg)
 
 링크 이미지
 
